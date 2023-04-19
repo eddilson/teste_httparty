@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+
+gem 'allure-cucumber'
+gem 'cpf_faker', '1.3.0'
+gem 'cucumber', '3.1.0'
+gem 'faker', '1.8.5'
+gem 'httparty', '0.21.0'
+gem 'json_matchers'
+gem 'nokogiri'
+gem 'rspec', '3.12.0'
